@@ -2,4 +2,4 @@
 
 * [`BAEKHO`] - 진해 백호낚시
 
-[`BAEKHO`]: ./baekho_privacy
+[`BAEKHO`]: ./baekho_privacy.md
