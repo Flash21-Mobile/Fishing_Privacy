@@ -6,6 +6,7 @@
 * [`JEILHO`] - 제일호
 * [`EQUUS`] - 에쿠스호
 * [`CP`] - 청파호
+* [`LALA`] - 라라피싱
 
 [`PK`]: ./src/pk_privacy.md
 [`BAEKHO`]: ./src/baekho_privacy.md
@@ -13,3 +14,4 @@
 [`JEILHO`]: ./src/jeilho_privacy.md
 [`EQUUS`]: ./src/equus_privacy.md
 [`CP`]: ./src/cp_privacy.md
+[`LALA`]: ./src/lala_privacy.md
